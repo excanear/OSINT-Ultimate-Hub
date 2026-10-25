@@ -889,6 +889,7 @@ ffmpeg -i video.mp4 -vf fps=1 frames/frame_%04d.png
 | [CIRCL Services](https://www.circl.lu/services/) | Passive DNS, Passive SSL, hashlookup e mais | API | 🆓 | 🟨 |
 | [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) | Famílias de malware, atores e referências | Web | 🆓 | 🟨 |
 | [ETDA Threat Group Cards](https://apt.etda.or.th/cgi-bin/aptgroups.cgi) | Enciclopédia de grupos APT e aliases | Web | 🆓 | 🟨 |
+| [ICHI — Internet Cyber Health Index](https://ichi.global) | Barômetro diário da saúde cibernética da internet; agrega notícias de segurança, telemetria e alertas de múltiplas fontes com transparência de origem | Web | 🆓 | 🟩 |
 
 ---
 
